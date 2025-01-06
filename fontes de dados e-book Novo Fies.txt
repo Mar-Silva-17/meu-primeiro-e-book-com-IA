@@ -1,0 +1,21 @@
+## Página Caixa_Mantenedoras
+https://www.caixa.gov.br/empresa/instituicoes-ensino-fies/Paginas/default.aspx
+## Cartilha Mantenedoras
+https://www.caixa.gov.br/Downloads/credito-fies/Cartilha_Mantenedoras_FIES.pdf
+
+## Cartilha alunos
+https://www.caixa.gov.br/Downloads/credito-fies/Cartilha_Estudante_FIES.pdf
+## Página Caixa_Alunos
+https://www.caixa.gov.br/programas-sociais/fies/Paginas/default.aspx
+
+Utilize poucos textos 
+Ter um layout agradável
+Múltiplos de 8
+
+,
+faça um texto para ebook, com foco em Novo Fies, listando os principais tipos de manutenção permitidas aos estudantes durante a fase de utilização do seu contrato.
+
+{REGRAS}
+> Explique sempre de uma maneira simples
+> Deixe o texto enxuto
+> Sempre traga exemplos para cada tipo de manutenção com contextos reais
